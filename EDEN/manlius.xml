@@ -90,9 +90,9 @@
                     <stage type="direction"> Il sort.</stage>
                 </div2>
             </div1>
-             <div3 type="act" n="5">
+             <div1 type="act" n="5">
                 <head> Acte V </head>
-                <div4 type="scène" n="2">
+                <div2 type="scène" n="2">
                     <head> Scène II </head>
                     <stage> Pison, Torquatus, Omphale</stage>
                     <sp who="Pison">
@@ -255,8 +255,8 @@
 
                         <l> Tâchons sans être vu, d'écouter leurs discours.</l>
                     </sp>
-                </div4>
-            </div3>
+                </div2>
+            </div1>
         </body>
     </text>
 </TEI>
